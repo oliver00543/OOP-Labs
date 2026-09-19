@@ -1,0 +1,9 @@
+﻿*.class
+*.jar
+*.war
+.DS_Store
+.vscode/
+.idea/
+*.iml
+bin/
+screenshots/
